@@ -1,0 +1,3 @@
+Flask #python web frakework provides local server to host webpages
+requests #module
+python-dotenv #lib
